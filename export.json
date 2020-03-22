@@ -403,7 +403,7 @@
       "strategy": "contending",
       "stadiumCapacity": 18418,
       "imgURL": "https://cdn.discordapp.com/attachments/661723249461428233/691400588105220226/image.png",
-      "colors (copy)": [
+      "colors": [
         "#8A8D8F",
         "#EF426F",
         "#00B2A9"
@@ -437,7 +437,7 @@
       "strategy": "rebuilding",
       "stadiumCapacity": 19800,
       "imgURL": "https://cdn.discordapp.com/attachments/661723249461428233/691399674564837416/image.png",
-      "colors (copy)": [
+      "colors": [
         "#753BBD",
         "#BA0C2F",
         "#8A8D8F"
