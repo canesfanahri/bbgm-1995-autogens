@@ -1,5 +1,5 @@
 {
-  "startingSeason": 1996,
+  "startingSeason": 1995,
   "teams": [
     {
       "tid": 0,
@@ -45,7 +45,7 @@
       "pop": 1.8,
       "strategy": "contending",
       "stadiumCapacity": 24042,
-      "imgURL": "https://worldsportlogos.com/wp-content/uploads/2018/03/Charlotte-Hornets-emblem-1989-2002.png",
+      "imgURL": "https://cdn.discordapp.com/attachments/282694122706567169/691395004702392410/PngItem_2150351.png",
       "colors": [
         "#1d1160",
         "#00788C",
@@ -249,7 +249,7 @@
       "pop": 1.6,
       "strategy": "rebuilding",
       "stadiumCapacity": 18717,
-      "imgURL": "https://worldsportlogos.com/wp-content/uploads/2018/03/Logo-Milwaukee-Bucks-emblem-1994%E2%80%932006.png",
+      "imgURL": "https://cdn.discordapp.com/attachments/661723249461428233/691404993277853716/image.png",
       "colors": [
         "#2C5234",
         "#702F8A",
@@ -317,7 +317,7 @@
       "pop": 1.4,
       "strategy": "contending",
       "stadiumCapacity": 18846,
-      "imgURL": "https://lh3.googleusercontent.com/proxy/HVg-p9MD-0SurAxCmP-bidbx3kCQzCCp7DhyYZUDL0Jfu9xQENIrp1Ewsz3CfGkhUptpaUCQO1l1qDYu87bTzFMY8fnolyx-CAD_ApeOjaAX4mn2HNwnyg",
+      "imgURL": "https://worldsportlogos.com/wp-content/uploads/2018/03/Orlando-Magic-emblem-1989-2000.png",
       "colors": [
         "#0077C0",
         "#C4CED4",
@@ -385,7 +385,7 @@
       "pop": 1.9,
       "strategy": "rebuilding",
       "stadiumCapacity": 17317,
-      "imgURL": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnba%2F500%2Fsac.png",
+      "imgURL": "https://cdn.discordapp.com/attachments/661723249461428233/691403217166139513/image.png",
       "colors": [
         "#5a2d81",
         "#63727A",
@@ -402,11 +402,11 @@
       "pop": 1.7,
       "strategy": "contending",
       "stadiumCapacity": 18418,
-      "imgURL": "https://1000logos.net/wp-content/uploads/2017/11/San-Antonio-Spurs-Logo.png",
+      "imgURL": "https://cdn.discordapp.com/attachments/661723249461428233/691400588105220226/image.png",
       "colors (copy)": [
-        "#c4ced4",
-        "#000000",
-        "#c4ced4"
+        "#8A8D8F",
+        "#EF426F",
+        "#00B2A9"
       ]
     },
     {
@@ -436,7 +436,7 @@
       "pop": 4.4,
       "strategy": "rebuilding",
       "stadiumCapacity": 19800,
-      "imgURL": "https://content.sportslogos.net/logos/6/227/full/kqmesaae0efg3atwugmeohxga.png",
+      "imgURL": "https://cdn.discordapp.com/attachments/661723249461428233/691399674564837416/image.png",
       "colors (copy)": [
         "#753BBD",
         "#BA0C2F",
@@ -453,7 +453,7 @@
       "pop": 1.1,
       "strategy": "contending",
       "stadiumCapacity": 18306,
-      "imgURL": "https://cdn.discordapp.com/attachments/282694122706567169/691056802145763358/bay_2.png",
+      "imgURL": "https://cdn.discordapp.com/attachments/661723249461428233/691399408759078942/image.png",
       "colors": [
         "#753BBD",
         "#00A9E0",
