@@ -1,0 +1,562 @@
+{
+  "startingSeason": 1995,
+  "teams": [
+    {
+      "tid": 0,
+      "cid": 0,
+      "did": 1,
+      "region": "Atlanta",
+      "name": "Hawks",
+      "abbrev": "ATL",
+      "pop": 4.1,
+      "strategy": "contending",
+      "stadiumCapacity": 18118,
+      "imgURL": "https://worldsportlogos.com/wp-content/uploads/2018/03/Atlanta-Hawks-emblem-1995-2007.png",
+      "colors": [
+        "#e03a3e",
+        "#C1D32F",
+        "#26282A"
+      ]
+    },
+    {
+      "tid": 1,
+      "cid": 0,
+      "did": 0,
+      "region": "Boston",
+      "name": "Celtics",
+      "abbrev": "BOS",
+      "pop": 4.2,
+      "strategy": "rebuilding",
+      "stadiumCapacity": 18624,
+      "imgURL": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnba%2F500%2Fbos.png",
+      "colors": [
+        "#007A33",
+        "#007A33",
+        "#BA9653"
+      ]
+    },
+    {
+      "tid": 2,
+      "cid": 0,
+      "did": 1,
+      "region": "Charlotte",
+      "name": "Hornets",
+      "abbrev": "CHA",
+      "pop": 1.8,
+      "strategy": "contending",
+      "stadiumCapacity": 24042,
+      "imgURL": "https://cdn.discordapp.com/attachments/282694122706567169/691419932642246686/image.png",
+      "colors": [
+        "#1d1160",
+        "#00788C",
+        "#A1A1A4"
+      ]
+    },
+    {
+      "tid": 3,
+      "cid": 0,
+      "did": 1,
+      "region": "Chicago",
+      "name": "Bulls",
+      "abbrev": "CHI",
+      "pop": 8.8,
+      "stadiumCapacity": 20917,
+      "strategy": "contending",
+      "imgURL": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnba%2F500%2Fchi.png",
+      "colors": [
+        "#CE1141",
+        "#CE1141",
+        "#000000"
+      ]
+    },
+    {
+      "tid": 4,
+      "cid": 0,
+      "did": 1,
+      "region": "Cleveland",
+      "name": "Cavaliers",
+      "abbrev": "CLE",
+      "pop": 2.1,
+      "strategy": "rebuilding",
+      "stadiumCapacity": 19432,
+      "imgURL": "https://1000logos.net/wp-content/uploads/2017/08/CAVS-Logo.png",
+      "colors": [
+        "#6F263D",
+        "#041E42",
+        "#FFB81C"
+      ]
+    },
+    {
+      "tid": 5,
+      "cid": 1,
+      "did": 2,
+      "region": "Dallas",
+      "name": "Mavericks",
+      "abbrev": "DAL",
+      "pop": 4.5,
+      "strategy": "rebuilding",
+      "stadiumCapacity": 19200,
+      "imgURL": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnba%2F500%2Fdal.png",
+      "colors": [
+        "#00538C",
+        "#002B5e",
+        "#B8C4CA"
+      ]
+    },
+    {
+      "tid": 6,
+      "cid": 1,
+      "did": 2,
+      "region": "Denver",
+      "name": "Nuggets",
+      "abbrev": "DEN",
+      "pop": 2.5,
+      "strategy": "rebuilding",
+      "stadiumCapacity": 19520,
+      "imgURL": "https://1000logos.net/wp-content/uploads/2018/05/Denver-Nuggets-Logo.png",
+      "colors": [
+        "#00285E",
+        "#418FDE",
+        "#FDB927"
+      ]
+    },
+    {
+      "tid": 7,
+      "cid": 0,
+      "did": 1,
+      "region": "Detroit",
+      "name": "Pistons",
+      "abbrev": "DET",
+      "pop": 4.3,
+      "strategy": "rebuilding",
+      "stadiumCapacity": 22076,
+      "imgURL": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
+      "colors": [
+        "#C8102E",
+        "#006BB6",
+        "#bec0c2"
+      ]
+    },
+    {
+      "tid": 8,
+      "cid": 1,
+      "did": 3,
+      "region": "Golden State",
+      "name": "Warriors",
+      "abbrev": "GSW",
+      "pop": 3.9,
+      "strategy": "rebuilding",
+      "stadiumCapacity": 19596,
+      "imgURL": "https://i.pinimg.com/originals/d3/8b/88/d38b88252178eb7d662a322b0f666784.png",
+      "colors": [
+        "#041E42",
+        "#BE3A34",
+        "#FFA300"
+      ]
+    },
+    {
+      "tid": 9,
+      "cid": 1,
+      "did": 2,
+      "region": "Houston",
+      "name": "Rockets",
+      "abbrev": "HOU",
+      "pop": 4.2,
+      "strategy": "contending",
+      "stadiumCapacity": 18055,
+      "imgURL": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2017/03/houston_rockets_logo_color_1996-300x223.png",
+      "colors": [
+        "#BA0C2F",
+        "#041E42",
+        "#2C7AA1"
+      ]
+    },
+    {
+      "tid": 10,
+      "cid": 0,
+      "did": 1,
+      "region": "Indiana",
+      "name": "Pacers",
+      "abbrev": "IND",
+      "pop": 1.5,
+      "strategy": "contending",
+      "stadiumCapacity": 17923,
+      "imgURL": "https://worldsportlogos.com/wp-content/uploads/2018/01/Indiana-Pacers-emblem-1990-2005.png",
+      "colors": [
+        "#002D62",
+        "#FDBB30",
+        "#BEC0C2"
+      ]
+    },
+    {
+      "tid": 11,
+      "cid": 1,
+      "did": 3,
+      "region": "Los Angeles",
+      "name": "Clippers",
+      "abbrev": "LAC",
+      "pop": 11.7,
+      "strategy": "rebuilding",
+      "stadiumCapacity": 19060,
+      "imgURL": "https://cdn.discordapp.com/attachments/711451469445857294/711755931003650052/58419c59a6515b1e0ad75a60.png",
+      "colors": [
+        "#c8102E",
+        "#1d428a",
+        "#BEC0C2"
+      ]
+    },
+    {
+      "tid": 12,
+      "cid": 1,
+      "did": 3,
+      "region": "Los Angeles",
+      "name": "Lakers",
+      "abbrev": "LAL",
+      "pop": 11.7,
+      "strategy": "rebuilding",
+      "stadiumCapacity": 19060,
+      "imgURL": "https://www.nba.com/.element/img/1.0/teamsites/logos/teamlogos_500x500/lal.png",
+      "colors": [
+        "#FDB927",
+        "#552583",
+        "#FDB927"
+      ]
+    },
+    {
+      "tid": 13,
+      "cid": 0,
+      "did": 0,
+      "region": "Miami",
+      "name": "Heat",
+      "abbrev": "MIA",
+      "pop": 4.5,
+      "strategy": "contending",
+      "stadiumCapacity": 19600,
+      "imgURL": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnba%2F500%2Fmia.png",
+      "colors": [
+        "#98002E",
+        "#F9A01B",
+        "#98002E"
+      ]
+    },
+    {
+      "tid": 14,
+      "cid": 0,
+      "did": 1,
+      "region": "Milwaukee",
+      "name": "Bucks",
+      "abbrev": "MIL",
+      "pop": 1.6,
+      "strategy": "rebuilding",
+      "stadiumCapacity": 18717,
+      "imgURL": "https://cdn.discordapp.com/attachments/661723249461428233/691404993277853716/image.png",
+      "colors": [
+        "#2C5234",
+        "#702F8A",
+        "#8A8D8F"
+      ]
+    },
+    {
+      "tid": 15,
+      "cid": 1,
+      "did": 2,
+      "region": "Minnesota",
+      "name": "Timberwolves",
+      "abbrev": "MIN",
+      "pop": 2.8,
+      "strategy": "rebuilding",
+      "stadiumCapacity": 18978,
+      "imgURL": "https://vignette.wikia.nocookie.net/logopedia/images/9/94/Minnesota_Timberwolves_logo_%281996-2008%29.svg/revision/latest/scale-to-width-down/340?cb=20131013220855",
+      "colors": [
+        "#236192",
+        "#00843D",
+        "#8A8D8F"
+      ]
+    },
+    {
+      "tid": 16,
+      "cid": 0,
+      "did": 0,
+      "region": "New Jersey",
+      "name": "Nets",
+      "abbrev": "NJN",
+      "pop": 8.1,
+      "strategy": "rebuilding",
+      "stadiumCapacity": 18711,
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2016/SLH/nba_primary/new_jersey_nets.png",
+      "colors": [
+        "#002A60",
+        "#CD1041",
+        "#777D84"
+      ]
+    },
+    {
+      "tid": 17,
+      "cid": 0,
+      "did": 0,
+      "region": "New York",
+      "name": "Knicks",
+      "abbrev": "NYK",
+      "pop": 17.5,
+      "strategy": "contending",
+      "stadiumCapacity": 19812,
+      "imgURL": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnba%2F500%2Fny.png",
+      "colors": [
+        "#006BB6",
+        "#F58426",
+        "#BEC0C2"
+      ]
+    },
+    {
+      "tid": 18,
+      "cid": 0,
+      "did": 0,
+      "region": "Orlando",
+      "name": "Magic",
+      "abbrev": "ORL",
+      "pop": 1.4,
+      "strategy": "contending",
+      "stadiumCapacity": 18846,
+      "imgURL": "https://worldsportlogos.com/wp-content/uploads/2018/03/Orlando-Magic-emblem-1989-2000.png",
+      "colors": [
+        "#0077C0",
+        "#C4CED4",
+        "#000000"
+      ]
+    },
+    {
+      "tid": 19,
+      "cid": 0,
+      "did": 0,
+      "region": "Philadelphia",
+      "name": "76ers",
+      "abbrev": "PHI",
+      "pop": 5.5,
+      "strategy": "rebuilding",
+      "stadiumCapacity": 20478,
+      "imgURL": "https://seeklogo.com/images/P/Philadelphia_76_ers-logo-AAF66FE36A-seeklogo.com.png",
+      "colors": [
+        "#006BB6",
+        "#D50032",
+        "#BB9754"
+      ]
+    },
+    {
+      "tid": 20,
+      "cid": 1,
+      "did": 3,
+      "region": "Phoenix",
+      "name": "Suns",
+      "abbrev": "PHX",
+      "pop": 2.7,
+      "strategy": "contending",
+      "stadiumCapacity": 18055,
+      "imgURL": "https://www.nba.com/.element/img/1.0/teamsites/logos/teamlogos_500x500/phx.png",
+      "colors": [
+        "#1D1160",
+        "#E56020",
+        "#000000"
+      ]
+    },
+    {
+      "tid": 21,
+      "cid": 1,
+      "did": 3,
+      "region": "Portland",
+      "name": "Trailblazers",
+      "abbrev": "POR",
+      "pop": 1.7,
+      "strategy": "contending",
+      "stadiumCapacity": 19441,
+      "imgURL": "https://www.nba.com/.element/img/1.0/teamsites/logos/teamlogos_500x500/por.png",
+      "colors": [
+        "#E03A3E",
+        "#000000",
+        "#E03A3E"
+      ]
+    },
+    {
+      "tid": 22,
+      "cid": 1,
+      "did": 3,
+      "region": "Sacramento",
+      "name": "Kings",
+      "abbrev": "SAC",
+      "pop": 1.9,
+      "strategy": "rebuilding",
+      "stadiumCapacity": 17317,
+      "imgURL": "https://cdn.discordapp.com/attachments/661723249461428233/691403217166139513/image.png",
+      "colors": [
+        "#5a2d81",
+        "#63727A",
+        "#000000"
+      ]
+    },
+    {
+      "tid": 23,
+      "cid": 1,
+      "did": 2,
+      "region": "San Antonio",
+      "name": "Spurs",
+      "abbrev": "SAS",
+      "pop": 1.7,
+      "strategy": "contending",
+      "stadiumCapacity": 18418,
+      "imgURL": "https://cdn.discordapp.com/attachments/661723249461428233/691400588105220226/image.png",
+      "colors": [
+        "#8A8D8F",
+        "#EF426F",
+        "#00B2A9"
+      ]
+    },
+    {
+      "tid": 24,
+      "cid": 1,
+      "did": 3,
+      "region": "Seattle",
+      "name": "SuperSonics",
+      "abbrev": "SEA",
+      "pop": 2.8,
+      "strategy": "contending",
+      "stadiumCapacity": 18600,
+      "imgURL": "https://cdn.freebiesupply.com/logos/large/2x/seattle-supersonics-3-logo-png-transparent.png",
+      "colors": [
+        "#173F35",
+        "#9E2A2F",
+        "#FFA300"
+      ]
+    },
+    {
+      "tid": 25,
+      "cid": 0,
+      "did": 1,
+      "region": "Toronto",
+      "name": "Raptors",
+      "abbrev": "TOR",
+      "pop": 4.4,
+      "strategy": "rebuilding",
+      "stadiumCapacity": 19800,
+      "imgURL": "https://cdn.discordapp.com/attachments/661723249461428233/691399674564837416/image.png",
+      "colors": [
+        "#753BBD",
+        "#BA0C2F",
+        "#8A8D8F"
+      ]
+    },
+    {
+      "tid": 26,
+      "cid": 1,
+      "did": 2,
+      "region": "Utah",
+      "name": "Jazz",
+      "abbrev": "UTA",
+      "pop": 1.1,
+      "strategy": "contending",
+      "stadiumCapacity": 18306,
+      "imgURL": "https://cdn.discordapp.com/attachments/661723249461428233/691399408759078942/image.png",
+      "colors": [
+        "#753BBD",
+        "#00A9E0",
+        "#006272"
+      ]
+    },
+    {
+      "tid": 27,
+      "cid": 1,
+      "did": 2,
+      "region": "Vancouver",
+      "name": "Grizzlies",
+      "abbrev": "VAN",
+      "pop": 1.9,
+      "strategy": "rebuilding",
+      "stadiumCapacity": 19700,
+      "imgURL": "https://cdn.freebiesupply.com/logos/large/2x/vancouver-grizzlies-logo-png-transparent.png",
+      "colors": [
+        "#00B2A9",
+        "#E43C40",
+        "#BC7844"
+      ]
+    },
+    {
+      "tid": 28,
+      "cid": 0,
+      "did": 0,
+      "region": "Washington",
+      "name": "Wizards",
+      "abbrev": "WAS",
+      "pop": 4.4,
+      "strategy": "contending",
+      "stadiumCapacity": 20356,
+      "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/washington_wizards_2012-2015.png",
+      "colors": [
+        "#002B5C",
+        "#e31837",
+        "#C4CED4"
+      ]
+    }
+  ],
+  "gameAttributes": [
+    {
+      "key": "luxuryPayroll",
+      "value": 25000
+    },
+    {
+      "key": "luxuryTax",
+      "value": 1.5
+    },
+    {
+      "key": "maxContract",
+      "value": 7000
+    },
+    {
+      "key": "minContract",
+      "value": 200
+    },
+    {
+      "key": "minPayroll",
+      "value": 15000
+    },
+    {
+      "key": "salaryCap",
+      "value": 23000
+    },
+    {
+      "key": "confs",
+      "value": [
+        {
+          "cid": 0,
+          "name": "Eastern Conference"
+        },
+        {
+          "cid": 1,
+          "name": "Western Conference"
+        }
+      ]
+    },
+    {
+      "key": "divs",
+      "value": [
+        {
+          "did": 0,
+          "cid": 0,
+          "name": "Atlantic"
+        },
+        {
+          "did": 1,
+          "cid": 0,
+          "name": "Central"
+        },
+        {
+          "did": 2,
+          "cid": 1,
+          "name": "Midwest"
+        },
+        {
+          "did": 3,
+          "cid": 1,
+          "name": "Pacific"
+        }
+      ]
+    }
+  ]
+}
