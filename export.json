@@ -9,9 +9,9 @@
       "name": "Hawks",
       "abbrev": "ATL",
       "pop": 4.1,
-      "strategy": "contending",
       "stadiumCapacity": 18118,
       "imgURL": "https://cdn.discordapp.com/attachments/661723249461428233/780874279285555231/latest.png",
+      "jersey": "jersey4",
       "colors": [
         "#C8102E",
         "#C8102E",
@@ -26,9 +26,9 @@
       "name": "Celtics",
       "abbrev": "BOS",
       "pop": 4.2,
-      "strategy": "rebuilding",
       "stadiumCapacity": 18624,
       "imgURL": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnba%2F500%2Fbos.png",
+      "jersey": "jersey4",
       "colors": [
         "#FFFFFF",
         "#FFFFFF",
@@ -43,9 +43,9 @@
       "name": "Hornets",
       "abbrev": "CHA",
       "pop": 1.8,
-      "strategy": "contending",
       "stadiumCapacity": 24042,
       "imgURL": "https://cdn.discordapp.com/attachments/282694122706567169/691419932642246686/image.png",
+      "jersey": "jersey5",
       "colors": [
         "#00788C",
         "#00788C",
@@ -61,12 +61,12 @@
       "abbrev": "CHI",
       "pop": 8.8,
       "stadiumCapacity": 20917,
-      "strategy": "contending",
       "imgURL": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnba%2F500%2Fchi.png",
+      "jersey": "jersey4",
       "colors": [
         "#CE1141",
         "#CE1141",
-        "#000000"
+        "#FFFFFF"
       ]
     },
     {
@@ -77,13 +77,13 @@
       "name": "Cavaliers",
       "abbrev": "CLE",
       "pop": 2.1,
-      "strategy": "rebuilding",
       "stadiumCapacity": 19432,
-      "imgURL": "https://media.discordapp.net/attachments/661723249461428233/780877081767837756/Cleveland-Cavaliers-Logo-2011-2017.png?width=1204&height=677",
+      "imgURL": "https://cdn.discordapp.com/attachments/812792718547484672/812793052695494696/cleveland-cavs-logo.png",
+      "jersey": "jersey4",
       "colors": [
-        "#FFFFFF",
-        "#FFFFFF",
-        "#9D2235"
+        "#27251F",
+        "#27251F",
+        "#5C88DA"
       ]
     },
     {
@@ -94,13 +94,13 @@
       "name": "Mavericks",
       "abbrev": "DAL",
       "pop": 4.5,
-      "strategy": "rebuilding",
       "stadiumCapacity": 19200,
       "imgURL": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnba%2F500%2Fdal.png",
+      "jersey": "jersey2",
       "colors": [
         "#0057B7",
         "#0057B7",
-        "#002B5E"
+        "#FFFFFF"
       ]
     },
     {
@@ -111,9 +111,9 @@
       "name": "Nuggets",
       "abbrev": "DEN",
       "pop": 2.5,
-      "strategy": "rebuilding",
       "stadiumCapacity": 19520,
       "imgURL": "https://1000logos.net/wp-content/uploads/2018/05/Denver-Nuggets-Logo.png",
+      "jersey": "jersey4",
       "colors": [
         "#FFFFFF",
         "#FFFFFF",
@@ -128,9 +128,9 @@
       "name": "Pistons",
       "abbrev": "DET",
       "pop": 4.3,
-      "strategy": "rebuilding",
       "stadiumCapacity": 22076,
-      "imgURL": "https://content.palacenet.com/content/logo/1979_logo.png",
+      "imgURL": "https://cdn.discordapp.com/attachments/812792718547484672/812851974571556914/detroit.png",
+      "jersey": "jersey2",
       "colors": [
         "#FFFFFF",
         "#FFFFFF",
@@ -145,9 +145,9 @@
       "name": "Warriors",
       "abbrev": "GSW",
       "pop": 3.9,
-      "strategy": "rebuilding",
       "stadiumCapacity": 19596,
       "imgURL": "https://i.pinimg.com/originals/d3/8b/88/d38b88252178eb7d662a322b0f666784.png",
+      "jersey": "jersey4",
       "colors": [
         "#041E42",
         "#041E42",
@@ -162,9 +162,9 @@
       "name": "Rockets",
       "abbrev": "HOU",
       "pop": 4.2,
-      "strategy": "contending",
       "stadiumCapacity": 18055,
       "imgURL": "https://mk0teamcolorcodtgc6i.kinstacdn.com/wp-content/uploads/2017/03/houston_rockets_logo_color_1996-300x223.png",
+      "jersey": "jersey4",
       "colors": [
         "#BA0C2F",
         "#BA0C2F",
@@ -179,12 +179,12 @@
       "name": "Pacers",
       "abbrev": "IND",
       "pop": 1.5,
-      "strategy": "contending",
       "stadiumCapacity": 17923,
-      "imgURL": "https://cdn.discordapp.com/attachments/661723249461428233/780877571234463824/db8d7b087e2c3afdc87f31f542b70408-pacers-logo-by-vexels.png",
+      "imgURL": "https://cdn.discordapp.com/attachments/812792718547484672/812797796746788944/i.png",
+      "jersey": "jersey4",
       "colors": [
-        "#041E42",
-        "#041E42",
+        "#00538C",
+        "#00538C",
         "#FDBB30"
       ]
     },
@@ -196,12 +196,12 @@
       "name": "Clippers",
       "abbrev": "LAC",
       "pop": 11.7,
-      "strategy": "rebuilding",
       "stadiumCapacity": 19060,
       "imgURL": "https://cdn.discordapp.com/attachments/711451469445857294/711755931003650052/58419c59a6515b1e0ad75a60.png",
+      "jersey": "jersey2",
       "colors": [
         "#FFFFFF",
-        "#FFFFFF",
+        "#003DA5",
         "#003DA5"
       ]
     },
@@ -213,13 +213,13 @@
       "name": "Lakers",
       "abbrev": "LAL",
       "pop": 11.7,
-      "strategy": "rebuilding",
       "stadiumCapacity": 19060,
       "imgURL": "https://www.nba.com/.element/img/1.0/teamsites/logos/teamlogos_500x500/lal.png",
+      "jersey": "jersey3",
       "colors": [
         "#FDB927",
-        "#FDB927",
-        "#552583"
+        "#552583",
+        "#FFFFFF"
       ]
     },
     {
@@ -230,13 +230,13 @@
       "name": "Heat",
       "abbrev": "MIA",
       "pop": 4.5,
-      "strategy": "contending",
       "stadiumCapacity": 19600,
       "imgURL": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnba%2F500%2Fmia.png",
+      "jersey": "jersey3",
       "colors": [
         "#FFFFFF",
-        "#FFFFFF",
-        "#DF192C"
+        "#BA0C2F",
+        "#BA0C2F"
       ]
     },
     {
@@ -247,9 +247,9 @@
       "name": "Bucks",
       "abbrev": "MIL",
       "pop": 1.6,
-      "strategy": "rebuilding",
       "stadiumCapacity": 18717,
       "imgURL": "https://cdn.discordapp.com/attachments/661723249461428233/691404993277853716/image.png",
+      "jersey": "jersey4",
       "colors": [
         "#2C5234",
         "#2C5234",
@@ -264,9 +264,9 @@
       "name": "Timberwolves",
       "abbrev": "MIN",
       "pop": 2.8,
-      "strategy": "rebuilding",
       "stadiumCapacity": 18978,
       "imgURL": "https://vignette.wikia.nocookie.net/logopedia/images/9/94/Minnesota_Timberwolves_logo_%281996-2008%29.svg/revision/latest/scale-to-width-down/340?cb=20131013220855",
+      "jersey": "jersey2",
       "colors": [
         "#FFFFFF",
         "#FFFFFF",
@@ -281,9 +281,9 @@
       "name": "Nets",
       "abbrev": "NJN",
       "pop": 8.1,
-      "strategy": "rebuilding",
       "stadiumCapacity": 18711,
       "imgURL": "https://sportslogohistory.com/wp-content/uploads/2016/SLH/nba_primary/new_jersey_nets.png",
+      "jersey": "jersey2",
       "colors": [
         "#FFFFFF",
         "#FFFFFF",
@@ -298,12 +298,12 @@
       "name": "Knicks",
       "abbrev": "NYK",
       "pop": 17.5,
-      "strategy": "contending",
       "stadiumCapacity": 19812,
       "imgURL": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnba%2F500%2Fny.png",
+      "jersey": "jersey3",
       "colors": [
         "#FFFFFF",
-        "#FFFFFF",
+        "#FE5000",
         "#FE5000"
       ]
     },
@@ -318,9 +318,10 @@
       "strategy": "contending",
       "stadiumCapacity": 18846,
       "imgURL": "https://cdn.discordapp.com/attachments/661723249461428233/780880304872226836/orl_1.png",
+      "jersey": "jersey5",
       "colors": [
         "#003DA5",
-        "#003DA5",
+        "#FFFFFF",
         "#FFFFFF"
       ]
     },
@@ -332,9 +333,9 @@
       "name": "76ers",
       "abbrev": "PHI",
       "pop": 5.5,
-      "strategy": "rebuilding",
       "stadiumCapacity": 20478,
       "imgURL": "https://seeklogo.com/images/P/Philadelphia_76_ers-logo-AAF66FE36A-seeklogo.com.png",
+      "jersey": "jersey2",
       "colors": [
         "#FFFFFF",
         "#FFFFFF",
@@ -349,13 +350,13 @@
       "name": "Suns",
       "abbrev": "PHX",
       "pop": 2.7,
-      "strategy": "contending",
       "stadiumCapacity": 18055,
       "imgURL": "https://www.nba.com/.element/img/1.0/teamsites/logos/teamlogos_500x500/phx.png",
+      "jersey": "jersey3",
       "colors": [
         "#5F249F",
         "#5F249F",
-        "#FE5000"
+        "#E55F20"
       ]
     },
     {
@@ -369,9 +370,10 @@
       "strategy": "contending",
       "stadiumCapacity": 19441,
       "imgURL": "https://cdn.discordapp.com/attachments/315955042257731584/712529332014415952/58419c2fa6515b1e0ad75a5d.png",
+      "jersey": "jersey3",
       "colors": [
-        "#FFFFFF",
-        "#FFFFFF",
+        "#061922",
+        "#061922",
         "#C8102E"
       ]
     },
@@ -383,9 +385,9 @@
       "name": "Kings",
       "abbrev": "SAC",
       "pop": 1.9,
-      "strategy": "rebuilding",
       "stadiumCapacity": 17317,
       "imgURL": "https://cdn.discordapp.com/attachments/661723249461428233/691403217166139513/image.png",
+      "jersey": "jersey4",
       "colors": [
         "#FFFFFF",
         "#FFFFFF",
@@ -400,9 +402,9 @@
       "name": "Spurs",
       "abbrev": "SAS",
       "pop": 1.7,
-      "strategy": "contending",
       "stadiumCapacity": 18418,
       "imgURL": "https://cdn.discordapp.com/attachments/661723249461428233/691400588105220226/image.png",
+      "jersey": "jersey3",
       "colors": [
         "#000000",
         "#000000",
@@ -417,9 +419,9 @@
       "name": "SuperSonics",
       "abbrev": "SEA",
       "pop": 2.8,
-      "strategy": "contending",
       "stadiumCapacity": 18600,
       "imgURL": "https://cdn.discordapp.com/attachments/649057237037219869/721570050112356432/seattle-supersonics-3-logo-png-transparent.png",
+      "jersey": "jersey3",
       "colors": [
         "#173F35",
         "#173F35",
@@ -434,9 +436,9 @@
       "name": "Raptors",
       "abbrev": "TOR",
       "pop": 4.4,
-      "strategy": "rebuilding",
       "stadiumCapacity": 19800,
       "imgURL": "https://cdn.discordapp.com/attachments/661723249461428233/691399674564837416/image.png",
+      "jersey": "jersey4",
       "colors": [
         "#753BBD",
         "#753BBD",
@@ -454,6 +456,7 @@
       "strategy": "contending",
       "stadiumCapacity": 18306,
       "imgURL": "https://cdn.discordapp.com/attachments/661723249461428233/691399408759078942/image.png",
+      "jersey": "jersey2",
       "colors": [
         "#FFFFFF",
         "#FFFFFF",
@@ -468,13 +471,13 @@
       "name": "Grizzlies",
       "abbrev": "VAN",
       "pop": 1.9,
-      "strategy": "rebuilding",
       "stadiumCapacity": 19700,
       "imgURL": "https://cdn.discordapp.com/attachments/649057237037219869/721567316986298489/vancouver-grizzlies-logo-png-transparent.png",
+      "jersey": "jersey4",
       "colors": [
         "#00B2A9",
         "#00B2A9",
-        "#040204"
+        "#E43C40"
       ]
     },
     {
@@ -485,9 +488,9 @@
       "name": "Wizards",
       "abbrev": "WAS",
       "pop": 4.4,
-      "strategy": "contending",
       "stadiumCapacity": 20356,
       "imgURL": "https://sportslogohistory.com/wp-content/uploads/2017/12/washington_wizards_2012-2015.png",
+      "jersey": "jersey2",
       "colors": [
         "#FFFFFF",
         "#FFFFFF",
