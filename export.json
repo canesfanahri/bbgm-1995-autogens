@@ -96,7 +96,7 @@
       "pop": 4.5,
       "stadiumCapacity": 19200,
       "imgURL": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnba%2F500%2Fdal.png",
-      "jersey": "jersey2",
+      "jersey": "jersey3",
       "colors": [
         "#0057B7",
         "#0057B7",
@@ -300,7 +300,7 @@
       "pop": 17.5,
       "stadiumCapacity": 19812,
       "imgURL": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnba%2F500%2Fny.png",
-      "jersey": "jersey3",
+      "jersey": "jersey2",
       "colors": [
         "#FFFFFF",
         "#FE5000",
@@ -387,10 +387,10 @@
       "pop": 1.9,
       "stadiumCapacity": 17317,
       "imgURL": "https://cdn.discordapp.com/attachments/661723249461428233/691403217166139513/image.png",
-      "jersey": "jersey4",
+      "jersey": "jersey3",
       "colors": [
         "#FFFFFF",
-        "#FFFFFF",
+        "#542E91",
         "#542E91"
       ]
     },
